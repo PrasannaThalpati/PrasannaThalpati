@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna Thalpati</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 
-- 🔭 I’m currently working on **Machine Learning model**
+- 🔭 I’m currently working on **Predective modeling**
 
 - 🌱 I’m currently learning **Data Science, ML Algorithms, Deep Learning.**
 
